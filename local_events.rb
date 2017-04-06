@@ -1,3 +1,4 @@
+#!/usr/bin/env ruby
 require "date"
 require "json"
 require "net/http"
@@ -51,6 +52,8 @@ class LocalEvents
 
   def params
     {
+      "client_id" => ENV["SEATGEEK_CLIENT_ID"],
+      "client_secret" => ENV["SEATGEEK_CLIENT_SECRET"],
       "format" => "json",
       "venue.city" => @city,
       "venue.state" => @state,
