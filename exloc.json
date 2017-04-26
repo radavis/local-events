@@ -1,0 +1,11 @@
+{
+  "name": "Local Events",
+  "description": "A class interface to a Web API.",
+  "scripts": {
+    "start": "ruby local_events.rb"
+  },
+  "dependencies": {
+    "node": "6.10.2"
+  },
+  "license": "MIT"
+}
