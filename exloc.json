@@ -5,7 +5,7 @@
     "start": "ruby local_events.rb"
   },
   "dependencies": {
-    "node": "6.10.2"
+    "ruby": "2.4.1"
   },
   "license": "MIT"
 }
