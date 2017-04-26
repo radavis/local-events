@@ -4,6 +4,10 @@ require "json"
 require "net/http"
 require "openssl"
 
+# check for API credentials
+raise "SEATGEEK_CLIENT_ID not set!" unless ENV["SEATGEEK_CLIENT_ID"]
+raise "SEATGEEK_CLIENT_SECRET not set!" unless ENV["SEATGEEK_CLIENT_SECRET"]
+
 class LocalEvents
   attr_reader :city, :state, :events
 
