@@ -16,31 +16,23 @@ class LocalEvents
   def to_s
     result = ""
     events.each do |event|
-      result += "#{event["title"]} @ #{event["venue"]["name"]}\n"
+      result += "#{event["title"]} @ #{event["venue"]["name"]} - #{event["datetime_local"]}\n"
     end
     result
   end
 
   private
   def get_events
-    JSON.parse(response.body)["events"]
+    json["events"]
   end
 
-  def http
-    # http://augustl.com/blog/2010/ruby_net_http_cheat_sheet/
-    result = Net::HTTP.new(uri.host, uri.port)
-    result.use_ssl = true
-    result.verify_mode = OpenSSL::SSL::VERIFY_NONE
-    result
-  end
-
-  def request
-    result = Net::HTTP::Get.new(uri)
-    result
+  def json
+    JSON.parse(response.body)
   end
 
   def response
-    @_response ||= http.request(request)
+    # memoize the response
+    @_response ||= Net::HTTP.get_response(uri)
   end
 
   def uri
@@ -55,8 +47,8 @@ class LocalEvents
       "client_id" => ENV["SEATGEEK_CLIENT_ID"],
       "client_secret" => ENV["SEATGEEK_CLIENT_SECRET"],
       "format" => "json",
-      "venue.city" => @city,
-      "venue.state" => @state,
+      "venue.city" => city,
+      "venue.state" => state,
       "datetime_local.gte" => today,
       "datetime_local.lt" => tomorrow
     }
@@ -75,6 +67,11 @@ class LocalEvents
   end
 end
 
+# __FILE__ is the current file
+# $0 is the script being executed
+
+# if this script is being executed
 if __FILE__ == $0
+  # print out the events happening in Boston
   puts LocalEvents.new("Boston", "MA")
 end

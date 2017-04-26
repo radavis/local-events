@@ -1,0 +1,1233 @@
+{
+  "meta": {
+    "total": 20,
+    "per_page": 10,
+    "geolocation": null,
+    "page": 1,
+    "took": 4
+  },
+  "events": [
+    {
+      "datetime_utc": "2017-04-26T22:05:00",
+      "announce_date": "2017-04-03T00:00:00",
+      "url": "https://seatgeek.com/hedgehog-drama-120-min-philadelphia-tickets/theater/2017-04-26-6-05-pm/3830842",
+      "datetime_local": "2017-04-26T18:05:00",
+      "title": "Hedgehog Drama 120 min - Philadelphia",
+      "stats": {
+        "lowest_price_good_deals": null,
+        "average_price": null,
+        "listing_count": 0,
+        "highest_price": null,
+        "lowest_price": null
+      },
+      "created_at": "2017-04-03T00:00:00",
+      "is_open": false,
+      "id": 3830842,
+      "datetime_tbd": false,
+      "venue": {
+        "city": "Philadelphia",
+        "address": "679 N. 39th Street",
+        "location": {
+          "lat": 39.9654,
+          "lon": -75.1998
+        },
+        "name_v2": "Philadelphia, PA",
+        "country": "US",
+        "url": "https://seatgeek.com/venues/philadelphia-pa/tickets",
+        "name": "Philadelphia, PA",
+        "has_upcoming_events": true,
+        "score": 0.0,
+        "extended_address": "Philadelphia, PA 19104",
+        "slug": "philadelphia-pa",
+        "display_location": "Philadelphia, PA",
+        "state": "PA",
+        "timezone": "America/New_York",
+        "postal_code": "19104",
+        "links": [
+
+        ],
+        "id": 8135,
+        "num_upcoming_events": 12
+      },
+      "taxonomies": [
+        {
+          "parent_id": null,
+          "name": "theater",
+          "id": 3000000
+        }
+      ],
+      "links": [
+
+      ],
+      "type": "theater",
+      "short_title": "Hedgehog Drama 120 min - Philadelphia",
+      "visible_until_utc": "2017-04-27T02:05:00",
+      "score": 0.0,
+      "performers": [
+        {
+          "url": "https://seatgeek.com/hedgehog-drama-120-min-tickets",
+          "divisions": null,
+          "stats": {
+            "event_count": 1
+          },
+          "image_license": null,
+          "short_name": "Hedgehog Drama 120 min",
+          "name": "Hedgehog Drama 120 min",
+          "image_attribution": null,
+          "home_venue_id": null,
+          "primary": true,
+          "num_upcoming_events": 1,
+          "images": {
+          },
+          "image": null,
+          "taxonomies": [
+            {
+              "parent_id": null,
+              "name": "concert",
+              "id": 2000000
+            }
+          ],
+          "type": "band",
+          "colors": null,
+          "has_upcoming_events": true,
+          "score": 0.0,
+          "id": 617111,
+          "slug": "hedgehog-drama-120-min"
+        }
+      ],
+      "time_tbd": false,
+      "date_tbd": false
+    },
+    {
+      "announce_date": "2017-03-17T00:00:00",
+      "url": "https://seatgeek.com/captain-black-big-band-tickets/philadelphia-pennsylvania-south-jazz-parlor-2017-04-26-7-pm/concert/3807287",
+      "datetime_local": "2017-04-26T19:00:00",
+      "title": "Captain Black Big Band",
+      "stats": {
+        "lowest_price_good_deals": null,
+        "average_price": null,
+        "listing_count": 0,
+        "highest_price": null,
+        "lowest_price": null
+      },
+      "datetime_utc": "2017-04-26T23:00:00",
+      "created_at": "2017-03-17T00:00:00",
+      "type": "concert",
+      "id": 3807287,
+      "datetime_tbd": false,
+      "venue": {
+        "city": "Philadelphia",
+        "address": "600 N Broad St.",
+        "location": {
+          "lat": 39.9641,
+          "lon": -75.1616
+        },
+        "url": "https://seatgeek.com/venues/south-jazz-parlor/tickets",
+        "country": "US",
+        "name": "SOUTH Jazz Parlor",
+        "postal_code": "19130",
+        "score": 0.0,
+        "name_v2": "SOUTH Jazz Parlor",
+        "extended_address": "Philadelphia, PA 19130",
+        "slug": "south-jazz-parlor",
+        "display_location": "Philadelphia, PA",
+        "state": "PA",
+        "timezone": "America/New_York",
+        "has_upcoming_events": true,
+        "links": [
+
+        ],
+        "id": 206255,
+        "num_upcoming_events": 18
+      },
+      "taxonomies": [
+        {
+          "parent_id": null,
+          "id": 2000000,
+          "name": "concert"
+        }
+      ],
+      "links": [
+
+      ],
+      "is_open": false,
+      "short_title": "Captain Black Big Band",
+      "visible_until_utc": "2017-04-27T03:00:00",
+      "score": 0.0,
+      "performers": [
+        {
+          "url": "https://seatgeek.com/captain-black-big-band-tickets",
+          "divisions": null,
+          "image_attribution": null,
+          "image_license": null,
+          "short_name": "Captain Black Big Band",
+          "name": "Captain Black Big Band",
+          "stats": {
+            "event_count": 2
+          },
+          "home_venue_id": null,
+          "id": 521290,
+          "num_upcoming_events": 2,
+          "images": {
+          },
+          "colors": null,
+          "taxonomies": [
+            {
+              "parent_id": null,
+              "id": 2000000,
+              "name": "concert"
+            }
+          ],
+          "type": "band",
+          "image": null,
+          "has_upcoming_events": true,
+          "score": 0.0,
+          "primary": true,
+          "slug": "captain-black-big-band"
+        }
+      ],
+      "time_tbd": false,
+      "date_tbd": false
+    },
+    {
+      "datetime_utc": "2017-04-26T23:00:00",
+      "announce_date": "2017-03-07T00:00:00",
+      "url": "https://seatgeek.com/kid-handsome-tickets/philadelphia-pennsylvania-ortlieb-s-lounge-2017-04-26-7-pm/concert/3785909",
+      "datetime_local": "2017-04-26T19:00:00",
+      "title": "Kid Handsome",
+      "stats": {
+        "lowest_price_good_deals": null,
+        "average_price": null,
+        "listing_count": 0,
+        "highest_price": null,
+        "lowest_price": null
+      },
+      "created_at": "2017-03-07T00:00:00",
+      "is_open": false,
+      "id": 3785909,
+      "datetime_tbd": false,
+      "venue": {
+        "city": "Philadelphia",
+        "address": "847 N Third Street",
+        "slug": "ortlieb-s-lounge",
+        "name_v2": "Ortlieb's Lounge",
+        "display_location": "Philadelphia, PA",
+        "name": "Ortlieb's Lounge",
+        "has_upcoming_events": true,
+        "score": 0.518445,
+        "url": "https://seatgeek.com/venues/ortlieb-s-lounge/tickets",
+        "extended_address": "Philadelphia, PA 19123",
+        "location": {
+          "lat": 39.9645,
+          "lon": -75.1423
+        },
+        "links": [
+
+        ],
+        "state": "PA",
+        "country": "US",
+        "postal_code": "19123",
+        "timezone": "America/New_York",
+        "id": 8807,
+        "num_upcoming_events": 37
+      },
+      "date_tbd": false,
+      "taxonomies": [
+        {
+          "parent_id": null,
+          "id": 2000000,
+          "name": "concert"
+        }
+      ],
+      "links": [
+
+      ],
+      "type": "concert",
+      "short_title": "Kid Handsome",
+      "visible_until_utc": "2017-04-27T03:00:00",
+      "score": 0.432365,
+      "performers": [
+        {
+          "url": "https://seatgeek.com/kid-handsome-tickets",
+          "divisions": null,
+          "image_attribution": null,
+          "image_license": null,
+          "short_name": "Kid Handsome",
+          "name": "Kid Handsome",
+          "stats": {
+            "event_count": 1
+          },
+          "home_venue_id": null,
+          "primary": true,
+          "num_upcoming_events": 1,
+          "images": {
+          },
+          "image": null,
+          "taxonomies": [
+            {
+              "parent_id": null,
+              "id": 2000000,
+              "name": "concert"
+            }
+          ],
+          "type": "band",
+          "colors": null,
+          "has_upcoming_events": true,
+          "score": 0.0,
+          "id": 476523,
+          "slug": "kid-handsome"
+        }
+      ],
+      "time_tbd": false,
+      "general_admission": true
+    },
+    {
+      "announce_date": "2016-11-07T00:00:00",
+      "url": "https://seatgeek.com/marlins-at-phillies-tickets/4-26-2017-philadelphia-pennsylvania-citizens-bank-park/mlb/3592434",
+      "datetime_local": "2017-04-26T19:05:00",
+      "title": "Miami Marlins at Philadelphia Phillies",
+      "stats": {
+        "lowest_price_good_deals": 13.0,
+        "average_price": 48.0,
+        "listing_count": 350,
+        "highest_price": 190.0,
+        "lowest_price": 13.0
+      },
+      "datetime_utc": "2017-04-26T23:05:00",
+      "created_at": "2016-11-07T00:00:00",
+      "type": "mlb",
+      "id": 3592434,
+      "datetime_tbd": false,
+      "venue": {
+        "city": "Philadelphia",
+        "has_upcoming_events": true,
+        "address": "1 Citizens Bank Way",
+        "location": {
+          "lat": 39.9055,
+          "lon": -75.1666
+        },
+        "name_v2": "Citizens Bank Park",
+        "name": "Citizens Bank Park",
+        "links": [
+
+        ],
+        "score": 0.84311,
+        "url": "https://seatgeek.com/venues/citizens-bank-park/tickets",
+        "extended_address": "Philadelphia, PA 19148",
+        "slug": "citizens-bank-park",
+        "display_location": "Philadelphia, PA",
+        "state": "PA",
+        "country": "US",
+        "postal_code": "19148",
+        "timezone": "America/New_York",
+        "id": 18,
+        "num_upcoming_events": 73
+      },
+      "taxonomies": [
+        {
+          "parent_id": null,
+          "id": 1000000,
+          "name": "sports"
+        },
+        {
+          "parent_id": 1000000,
+          "id": 1010000,
+          "name": "baseball"
+        },
+        {
+          "parent_id": 1010000,
+          "id": 1010100,
+          "name": "mlb"
+        }
+      ],
+      "links": [
+
+      ],
+      "is_open": false,
+      "short_title": "Marlins at Phillies",
+      "visible_until_utc": "2017-04-27T03:05:00",
+      "score": 0.709695,
+      "performers": [
+        {
+          "image": "https://chairnerd.global.ssl.fastly.net/images/performers-landscape/philadelphia-phillies-908128/18/huge.jpg",
+          "url": "https://seatgeek.com/philadelphia-phillies-tickets",
+          "divisions": [
+            {
+              "display_name": "National League",
+              "taxonomy_id": 1010100,
+              "short_name": null,
+              "division_level": 1,
+              "slug": null,
+              "display_type": "League"
+            },
+            {
+              "display_name": "National League East",
+              "taxonomy_id": 1010100,
+              "short_name": "NL East",
+              "division_level": 2,
+              "slug": "national-league-east",
+              "display_type": "Division"
+            }
+          ],
+          "stats": {
+            "event_count": 143
+          },
+          "image_license": "https://creativecommons.org/licenses/by-sa/2.0/",
+          "short_name": "Phillies",
+          "name": "Philadelphia Phillies",
+          "image_attribution": "https://www.flickr.com/photos/jreed/5490567768/in/photolist-9nbAvw-26M5XF-4Ti5ea-8tiCGd-8tiCSE-8tiCPU-4k1srM-4TnhYQ-7a9eNW-4S4rPV-Yi9bj-4S4rtX-sCPn91-79ZDUG-79VNUT-vnsBSU-v6xqZe-vnZhwR-5gdFCU-9Bwfxu-78Zygq-5gdB21-5gdFe3-v6CjiE-5gdC2W-5gdE9A-5gdBkG-79VKJZ-79ZAtG-79ZEoJ-79ZxKC-79VK3t-79VGfc-79ZA1j-4S4srk-4S4rjz-7UGCnU-6PXodh-6PXofL-6PXo8q-rJknA8-sEXxMo-8tiCCY-8tfCGi-6PXoi7-79UFiT-79ui7v-78VBxD-79yatY-79yb5A",
+          "home_venue_id": 18,
+          "primary": true,
+          "num_upcoming_events": 143,
+          "images": {
+            "huge": "https://chairnerd.global.ssl.fastly.net/images/performers-landscape/philadelphia-phillies-908128/18/huge.jpg"
+          },
+          "home_team": true,
+          "taxonomies": [
+            {
+              "parent_id": null,
+              "id": 1000000,
+              "name": "sports"
+            },
+            {
+              "parent_id": 1000000,
+              "id": 1010000,
+              "name": "baseball"
+            },
+            {
+              "parent_id": 1010000,
+              "id": 1010100,
+              "name": "mlb"
+            }
+          ],
+          "type": "mlb",
+          "colors": {
+            "all": [
+              "#284898",
+              "#E81828"
+            ],
+            "iconic": "#284898",
+            "primary": [
+              "#284898",
+              "#E81828"
+            ]
+          },
+          "has_upcoming_events": true,
+          "score": 0.733889,
+          "id": 18,
+          "slug": "philadelphia-phillies"
+        },
+        {
+          "url": "https://seatgeek.com/miami-marlins-tickets",
+          "divisions": [
+            {
+              "display_name": "National League",
+              "taxonomy_id": 1010100,
+              "short_name": null,
+              "division_level": 1,
+              "slug": null,
+              "display_type": "League"
+            },
+            {
+              "display_name": "National League East",
+              "taxonomy_id": 1010100,
+              "short_name": "NL East",
+              "division_level": 2,
+              "slug": "national-league-east",
+              "display_type": "Division"
+            }
+          ],
+          "stats": {
+            "event_count": 143
+          },
+          "image_license": "https://creativecommons.org/licenses/by-sa/2.0/",
+          "short_name": "Marlins",
+          "name": "Miami Marlins",
+          "image_attribution": "https://www.flickr.com/photos/mrlaugh/7793689394/in/photolist-cSGGk5-cSGRp7-cSGHuN-bNktRx-6gb9fV-fUApHm-fUEqfr-nJHKp-bKosB2-6gb97H-6gb9pa-6gb9wv-6gfiDy-6gfiJC-6gfijE-6gb8gv-6gfiWE-6gfj1U-6gfizw-6gfitQ-6gb8Uz-6gfiPU-6gfiUh-6gfivS-6gb8u2-8oVntb-8oVoyb-8oSfV4-8oS8Mx-nJGfP-6gsDDi-oSn4Wf-oU8fsM-oBUeAN-oBUdPC-oBUgjs-6h5Lkx-6h5Lar-6h5Lb6-6h9WN3-8oSiZD-bwtFnQ-cqAfyJ-cqAk6E-cqAkBs-cqAhNN-enKM3q-bXyzV3-bXysB7-6X7rnW",
+          "home_venue_id": 6371,
+          "id": 29,
+          "num_upcoming_events": 143,
+          "away_team": true,
+          "images": {
+            "huge": "https://chairnerd.global.ssl.fastly.net/images/performers-landscape/miami-marlins-d9601c/29/huge.jpg"
+          },
+          "image": "https://chairnerd.global.ssl.fastly.net/images/performers-landscape/miami-marlins-d9601c/29/huge.jpg",
+          "taxonomies": [
+            {
+              "parent_id": null,
+              "id": 1000000,
+              "name": "sports"
+            },
+            {
+              "parent_id": 1000000,
+              "id": 1010000,
+              "name": "baseball"
+            },
+            {
+              "parent_id": 1010000,
+              "id": 1010100,
+              "name": "mlb"
+            }
+          ],
+          "type": "mlb",
+          "colors": {
+            "all": [
+              "#FF6600",
+              "#0077C8",
+              "#FFD100",
+              "#000000"
+            ],
+            "iconic": "#FF6600",
+            "primary": [
+              "#FF6600",
+              "#0077C8"
+            ]
+          },
+          "has_upcoming_events": true,
+          "score": 0.628485,
+          "slug": "miami-marlins"
+        }
+      ],
+      "time_tbd": false,
+      "date_tbd": false
+    },
+    {
+      "datetime_utc": "2017-04-26T23:30:00",
+      "announce_date": "2017-04-09T00:00:00",
+      "url": "https://seatgeek.com/jerry-s-girls-philadelphia-tickets/theater/2017-04-26-7-30-pm/3838907",
+      "datetime_local": "2017-04-26T19:30:00",
+      "title": "Jerry's Girls - Philadelphia",
+      "stats": {
+        "lowest_price_good_deals": null,
+        "average_price": null,
+        "listing_count": 0,
+        "highest_price": null,
+        "lowest_price": null
+      },
+      "created_at": "2017-04-09T00:00:00",
+      "is_open": false,
+      "id": 3838907,
+      "datetime_tbd": false,
+      "venue": {
+        "city": "Philadelphia",
+        "address": "825 Walnut Street",
+        "location": {
+          "lat": 39.9482,
+          "lon": -75.1553
+        },
+        "name_v2": "Walnut Street Theatre",
+        "url": "https://seatgeek.com/venues/walnut-street-theatre/tickets",
+        "name": "Walnut Street Theatre",
+        "postal_code": "19107",
+        "score": 0.442573,
+        "timezone": "America/New_York",
+        "extended_address": "Philadelphia, PA 19107",
+        "slug": "walnut-street-theatre",
+        "display_location": "Philadelphia, PA",
+        "state": "PA",
+        "country": "US",
+        "has_upcoming_events": true,
+        "links": [
+
+        ],
+        "id": 2961,
+        "num_upcoming_events": 428
+      },
+      "date_tbd": false,
+      "taxonomies": [
+        {
+          "parent_id": null,
+          "id": 3000000,
+          "name": "theater"
+        }
+      ],
+      "links": [
+
+      ],
+      "type": "theater",
+      "short_title": "Jerry's Girls - Philadelphia",
+      "visible_until_utc": "2017-04-27T03:30:00",
+      "score": 0.362688,
+      "performers": [
+        {
+          "url": "https://seatgeek.com/jerry-s-girls-tickets",
+          "divisions": null,
+          "image_attribution": null,
+          "image_license": null,
+          "short_name": "Jerry's Girls",
+          "name": "Jerry's Girls",
+          "stats": {
+            "event_count": 79
+          },
+          "home_venue_id": null,
+          "id": 617400,
+          "num_upcoming_events": 79,
+          "images": {
+          },
+          "colors": null,
+          "taxonomies": [
+            {
+              "parent_id": null,
+              "id": 3000000,
+              "name": "theater"
+            }
+          ],
+          "type": "theater",
+          "image": null,
+          "has_upcoming_events": true,
+          "score": 0.0,
+          "primary": true,
+          "slug": "jerry-s-girls"
+        }
+      ],
+      "time_tbd": false,
+      "general_admission": true
+    },
+    {
+      "datetime_utc": "2017-04-27T00:00:00",
+      "announce_date": "2016-12-14T00:00:00",
+      "url": "https://seatgeek.com/dave-alvin-tickets/philadelphia-pennsylvania-world-cafe-live-2017-04-26-8-pm/concert/3659172",
+      "datetime_local": "2017-04-26T20:00:00",
+      "title": "Dave Alvin",
+      "stats": {
+        "lowest_price_good_deals": null,
+        "average_price": null,
+        "listing_count": 0,
+        "highest_price": null,
+        "lowest_price": null
+      },
+      "created_at": "2016-12-14T00:00:00",
+      "type": "concert",
+      "id": 3659172,
+      "datetime_tbd": false,
+      "venue": {
+        "city": "Philadelphia",
+        "address": "3025 Walnut Street",
+        "slug": "world-cafe-live",
+        "name_v2": "World Cafe Live",
+        "country": "US",
+        "url": "https://seatgeek.com/venues/world-cafe-live/tickets",
+        "name": "World Cafe Live",
+        "postal_code": "19104",
+        "score": 0.453979,
+        "extended_address": "Philadelphia, PA 19104",
+        "location": {
+          "lat": 39.952,
+          "lon": -75.1852
+        },
+        "display_location": "Philadelphia, PA",
+        "state": "PA",
+        "timezone": "America/New_York",
+        "has_upcoming_events": true,
+        "links": [
+
+        ],
+        "id": 1459,
+        "num_upcoming_events": 97
+      },
+      "date_tbd": false,
+      "taxonomies": [
+        {
+          "parent_id": null,
+          "id": 2000000,
+          "name": "concert"
+        }
+      ],
+      "links": [
+
+      ],
+      "is_open": false,
+      "short_title": "Dave Alvin",
+      "visible_until_utc": "2017-04-27T04:00:00",
+      "score": 0.496549,
+      "performers": [
+        {
+          "genres": [
+            {
+              "primary": false,
+              "id": 452,
+              "name": "Pop",
+              "slug": "pop"
+            },
+            {
+              "primary": true,
+              "id": 456,
+              "name": "Rock",
+              "slug": "rock"
+            }
+          ],
+          "url": "https://seatgeek.com/dave-alvin-tickets",
+          "divisions": null,
+          "stats": {
+            "event_count": 12
+          },
+          "image_license": null,
+          "short_name": "Dave Alvin",
+          "name": "Dave Alvin",
+          "image_attribution": null,
+          "home_venue_id": null,
+          "id": 545,
+          "num_upcoming_events": 12,
+          "images": {
+            "huge": "https://chairnerd.global.ssl.fastly.net/images/performers-landscape/dave-alvin-d94859/545/huge.jpg"
+          },
+          "colors": null,
+          "taxonomies": [
+            {
+              "parent_id": null,
+              "id": 2000000,
+              "name": "concert"
+            }
+          ],
+          "type": "band",
+          "image": "https://chairnerd.global.ssl.fastly.net/images/performers-landscape/dave-alvin-d94859/545/huge.jpg",
+          "has_upcoming_events": true,
+          "score": 0.51724,
+          "primary": true,
+          "slug": "dave-alvin"
+        }
+      ],
+      "time_tbd": false,
+      "general_admission": true
+    },
+    {
+      "datetime_utc": "2017-04-27T00:00:00",
+      "announce_date": "2017-04-17T00:00:00",
+      "url": "https://seatgeek.com/venture-with-avery-tickets/philadelphia-pennsylvania-the-barbary-2017-04-26-8-pm/concert/3847481",
+      "datetime_local": "2017-04-26T20:00:00",
+      "title": "Venture with Avery",
+      "stats": {
+        "lowest_price_good_deals": null,
+        "average_price": null,
+        "listing_count": 0,
+        "highest_price": null,
+        "lowest_price": null
+      },
+      "created_at": "2017-04-17T00:00:00",
+      "is_open": false,
+      "id": 3847481,
+      "datetime_tbd": false,
+      "venue": {
+        "city": "Philadelphia",
+        "address": "951 Frankford Ave",
+        "slug": "the-barbary",
+        "name_v2": "The Barbary",
+        "display_location": "Philadelphia, PA",
+        "name": "The Barbary",
+        "has_upcoming_events": true,
+        "score": 0.418963,
+        "url": "https://seatgeek.com/venues/the-barbary/tickets",
+        "extended_address": "Philadelphia, PA 19125",
+        "location": {
+          "lat": 39.9655,
+          "lon": -75.1344
+        },
+        "links": [
+
+        ],
+        "state": "PA",
+        "country": "US",
+        "postal_code": "19125",
+        "timezone": "America/New_York",
+        "id": 8244,
+        "num_upcoming_events": 38
+      },
+      "date_tbd": false,
+      "taxonomies": [
+        {
+          "parent_id": null,
+          "id": 2000000,
+          "name": "concert"
+        }
+      ],
+      "links": [
+
+      ],
+      "type": "concert",
+      "short_title": "Venture with Avery",
+      "visible_until_utc": "2017-04-27T04:00:00",
+      "score": 0.341006,
+      "performers": [
+        {
+          "url": "https://seatgeek.com/venture-tickets",
+          "divisions": null,
+          "image_attribution": null,
+          "image_license": null,
+          "short_name": "Venture",
+          "name": "Venture",
+          "stats": {
+            "event_count": 1
+          },
+          "home_venue_id": null,
+          "primary": true,
+          "num_upcoming_events": 1,
+          "images": {
+          },
+          "image": null,
+          "taxonomies": [
+            {
+              "parent_id": null,
+              "id": 2000000,
+              "name": "concert"
+            }
+          ],
+          "type": "band",
+          "colors": null,
+          "has_upcoming_events": true,
+          "score": 0.0,
+          "id": 15125,
+          "slug": "venture"
+        },
+        {
+          "genres": [
+            {
+              "id": 452,
+              "name": "Pop",
+              "primary": true,
+              "slug": "pop"
+            },
+            {
+              "id": 456,
+              "name": "Rock",
+              "primary": false,
+              "slug": "rock"
+            }
+          ],
+          "url": "https://seatgeek.com/avery-tickets",
+          "divisions": null,
+          "image_attribution": null,
+          "image_license": null,
+          "short_name": "Avery",
+          "name": "Avery",
+          "stats": {
+            "event_count": 1
+          },
+          "home_venue_id": null,
+          "id": 254620,
+          "num_upcoming_events": 1,
+          "images": {
+          },
+          "image": null,
+          "taxonomies": [
+            {
+              "parent_id": null,
+              "id": 2000000,
+              "name": "concert"
+            }
+          ],
+          "type": "band",
+          "colors": null,
+          "has_upcoming_events": true,
+          "score": 0.0,
+          "slug": "avery"
+        }
+      ],
+      "time_tbd": false,
+      "general_admission": true
+    },
+    {
+      "datetime_utc": "2017-04-27T00:00:00",
+      "announce_date": "2017-04-18T00:00:00",
+      "url": "https://seatgeek.com/ellen-siberian-tiger-with-john-hines-tickets/philadelphia-pennsylvania-kung-fu-necktie-2017-04-26-8-pm/concert/3848255",
+      "datetime_local": "2017-04-26T20:00:00",
+      "title": "Ellen Siberian Tiger with John Hines",
+      "stats": {
+        "lowest_price_good_deals": null,
+        "average_price": null,
+        "listing_count": 0,
+        "highest_price": null,
+        "lowest_price": null
+      },
+      "created_at": "2017-04-18T00:00:00",
+      "is_open": false,
+      "id": 3848255,
+      "datetime_tbd": false,
+      "venue": {
+        "city": "Philadelphia",
+        "address": "1250 North Front Street",
+        "slug": "kung-fu-necktie",
+        "name_v2": "Kung Fu Necktie",
+        "display_location": "Philadelphia, PA",
+        "name": "Kung Fu Necktie",
+        "has_upcoming_events": true,
+        "score": 0.422139,
+        "url": "https://seatgeek.com/venues/kung-fu-necktie/tickets",
+        "extended_address": "Philadelphia, PA 19122",
+        "location": {
+          "lat": 39.9702,
+          "lon": -75.136
+        },
+        "links": [
+
+        ],
+        "state": "PA",
+        "country": "US",
+        "postal_code": "19122",
+        "timezone": "America/New_York",
+        "id": 3875,
+        "num_upcoming_events": 56
+      },
+      "date_tbd": false,
+      "taxonomies": [
+        {
+          "parent_id": null,
+          "id": 2000000,
+          "name": "concert"
+        }
+      ],
+      "links": [
+
+      ],
+      "type": "concert",
+      "short_title": "Ellen Siberian Tiger with John Hines",
+      "visible_until_utc": "2017-04-27T04:00:00",
+      "score": 0.343922,
+      "performers": [
+        {
+          "url": "https://seatgeek.com/john-hines-tickets",
+          "divisions": null,
+          "image_attribution": null,
+          "image_license": null,
+          "short_name": "John Hines",
+          "name": "John Hines",
+          "stats": {
+            "event_count": 1
+          },
+          "home_venue_id": null,
+          "id": 327842,
+          "num_upcoming_events": 1,
+          "images": {
+          },
+          "image": null,
+          "taxonomies": [
+            {
+              "parent_id": null,
+              "id": 2000000,
+              "name": "concert"
+            }
+          ],
+          "type": "band",
+          "colors": null,
+          "has_upcoming_events": true,
+          "score": 0.0,
+          "slug": "john-hines"
+        },
+        {
+          "url": "https://seatgeek.com/ellen-siberian-tiger-tickets",
+          "divisions": null,
+          "image_attribution": null,
+          "image_license": null,
+          "short_name": "Ellen Siberian Tiger",
+          "name": "Ellen Siberian Tiger",
+          "stats": {
+            "event_count": 1
+          },
+          "home_venue_id": null,
+          "primary": true,
+          "num_upcoming_events": 1,
+          "images": {
+          },
+          "image": null,
+          "taxonomies": [
+            {
+              "parent_id": null,
+              "id": 2000000,
+              "name": "concert"
+            }
+          ],
+          "type": "band",
+          "colors": null,
+          "has_upcoming_events": true,
+          "score": 0.0,
+          "id": 339413,
+          "slug": "ellen-siberian-tiger"
+        }
+      ],
+      "time_tbd": false,
+      "general_admission": true
+    },
+    {
+      "datetime_utc": "2017-04-27T00:00:00",
+      "announce_date": "2017-03-08T00:00:00",
+      "url": "https://seatgeek.com/frank-carter-amp-the-rattlesnakes-with-royal-republic-tickets/philadelphia-pennsylvania-voltage-lounge-2017-04-26-8-pm/concert/3791271",
+      "datetime_local": "2017-04-26T20:00:00",
+      "title": "Frank Carter & the Rattlesnakes with Royal Republic",
+      "stats": {
+        "lowest_price_good_deals": null,
+        "average_price": null,
+        "listing_count": 0,
+        "highest_price": null,
+        "lowest_price": null
+      },
+      "created_at": "2017-03-08T00:00:00",
+      "is_open": false,
+      "id": 3791271,
+      "datetime_tbd": false,
+      "venue": {
+        "city": "Philadelphia",
+        "address": "421 North 7th Street",
+        "location": {
+          "lat": 39.9589,
+          "lon": -75.15
+        },
+        "name_v2": "Voltage Lounge",
+        "url": "https://seatgeek.com/venues/voltage-lounge/tickets",
+        "name": "Voltage Lounge",
+        "postal_code": "19123",
+        "score": 0.0,
+        "timezone": "America/New_York",
+        "extended_address": "Philadelphia, PA 19123",
+        "slug": "voltage-lounge",
+        "display_location": "Philadelphia, PA",
+        "state": "PA",
+        "country": "US",
+        "has_upcoming_events": true,
+        "links": [
+
+        ],
+        "id": 52263,
+        "num_upcoming_events": 31
+      },
+      "date_tbd": false,
+      "taxonomies": [
+        {
+          "parent_id": null,
+          "id": 2000000,
+          "name": "concert"
+        }
+      ],
+      "links": [
+
+      ],
+      "type": "concert",
+      "short_title": "Frank Carter & the Rattlesnakes with Royal Republic",
+      "visible_until_utc": "2017-04-27T04:00:00",
+      "score": 0.261174,
+      "performers": [
+        {
+          "genres": [
+            {
+              "primary": false,
+              "slug": "pop",
+              "name": "Pop",
+              "id": 452
+            },
+            {
+              "primary": true,
+              "slug": "rock",
+              "name": "Rock",
+              "id": 456
+            },
+            {
+              "primary": false,
+              "slug": "alternative",
+              "name": "Alternative",
+              "id": 457
+            }
+          ],
+          "url": "https://seatgeek.com/royal-republic-tickets",
+          "divisions": null,
+          "image_attribution": null,
+          "image_license": null,
+          "short_name": "Royal Republic",
+          "name": "Royal Republic",
+          "stats": {
+            "event_count": 10
+          },
+          "home_venue_id": null,
+          "id": 27999,
+          "num_upcoming_events": 10,
+          "images": {
+          },
+          "colors": null,
+          "taxonomies": [
+            {
+              "parent_id": null,
+              "id": 2000000,
+              "name": "concert"
+            }
+          ],
+          "type": "band",
+          "image": null,
+          "has_upcoming_events": true,
+          "score": 0.0,
+          "slug": "royal-republic"
+        },
+        {
+          "url": "https://seatgeek.com/frank-carter-the-rattlesnakes-tickets",
+          "divisions": null,
+          "image_attribution": null,
+          "image_license": null,
+          "short_name": "Frank Carter & the Rattlesnakes",
+          "name": "Frank Carter & the Rattlesnakes",
+          "stats": {
+            "event_count": 12
+          },
+          "home_venue_id": null,
+          "id": 310781,
+          "num_upcoming_events": 12,
+          "images": {
+          },
+          "colors": null,
+          "taxonomies": [
+            {
+              "parent_id": null,
+              "id": 2000000,
+              "name": "concert"
+            }
+          ],
+          "type": "band",
+          "image": null,
+          "has_upcoming_events": true,
+          "score": 0.319145,
+          "primary": true,
+          "slug": "frank-carter-the-rattlesnakes"
+        }
+      ],
+      "time_tbd": false,
+      "general_admission": true
+    },
+    {
+      "datetime_utc": "2017-04-27T00:00:00",
+      "announce_date": "2017-01-21T00:00:00",
+      "url": "https://seatgeek.com/balkan-beat-box-with-johnny-showcase-amp-the-mystic-ticket-tickets/philadelphia-pennsylvania-theatre-of-living-arts-2017-04-26-8-pm/concert/3715263",
+      "datetime_local": "2017-04-26T20:00:00",
+      "title": "Balkan Beat Box with Johnny Showcase & The Mystic Ticket",
+      "stats": {
+        "lowest_price_good_deals": null,
+        "average_price": 55.5,
+        "listing_count": 40,
+        "highest_price": 527.0,
+        "lowest_price": 16.0
+      },
+      "created_at": "2017-01-21T00:00:00",
+      "is_open": false,
+      "id": 3715263,
+      "datetime_tbd": false,
+      "venue": {
+        "city": "Philadelphia",
+        "address": "334 South Street",
+        "slug": "theatre-of-living-arts",
+        "name_v2": "Theatre of Living Arts",
+        "display_location": "Philadelphia, PA",
+        "name": "Theatre of Living Arts",
+        "has_upcoming_events": true,
+        "score": 0.506162,
+        "url": "https://seatgeek.com/venues/theatre-of-living-arts/tickets",
+        "extended_address": "Philadelphia, PA 19147",
+        "location": {
+          "lat": 39.9413,
+          "lon": -75.1487
+        },
+        "links": [
+
+        ],
+        "state": "PA",
+        "timezone": "America/New_York",
+        "postal_code": "19147",
+        "country": "US",
+        "id": 539,
+        "num_upcoming_events": 33
+      },
+      "date_tbd": false,
+      "taxonomies": [
+        {
+          "parent_id": null,
+          "id": 2000000,
+          "name": "concert"
+        }
+      ],
+      "links": [
+
+      ],
+      "type": "concert",
+      "short_title": "Balkan Beat Box with Johnny Showcase & The Mystic Ticket",
+      "visible_until_utc": "2017-04-27T04:00:00",
+      "score": 0.459726,
+      "performers": [
+        {
+          "genres": [
+            {
+              "id": 456,
+              "primary": false,
+              "name": "Rock",
+              "slug": "rock"
+            },
+            {
+              "id": 457,
+              "primary": true,
+              "name": "Alternative",
+              "slug": "alternative"
+            },
+            {
+              "id": 477,
+              "primary": false,
+              "name": "Electronic",
+              "slug": "electronic"
+            }
+          ],
+          "url": "https://seatgeek.com/balkan-beat-box-tickets",
+          "divisions": null,
+          "image_attribution": null,
+          "image_license": null,
+          "short_name": "Balkan Beat Box",
+          "name": "Balkan Beat Box",
+          "stats": {
+            "event_count": 3
+          },
+          "home_venue_id": null,
+          "id": 254,
+          "num_upcoming_events": 3,
+          "images": {
+            "huge": "https://chairnerd.global.ssl.fastly.net/images/performers-landscape/balkan-beat-box-5c62f9/254/huge.jpg"
+          },
+          "colors": null,
+          "taxonomies": [
+            {
+              "parent_id": null,
+              "id": 2000000,
+              "name": "concert"
+            }
+          ],
+          "type": "band",
+          "image": "https://chairnerd.global.ssl.fastly.net/images/performers-landscape/balkan-beat-box-5c62f9/254/huge.jpg",
+          "has_upcoming_events": true,
+          "score": 0.3746,
+          "primary": true,
+          "slug": "balkan-beat-box"
+        },
+        {
+          "url": "https://seatgeek.com/johnny-showcase-the-mystic-ticket-tickets",
+          "divisions": null,
+          "image_attribution": null,
+          "image_license": null,
+          "short_name": "Johnny Showcase & The Mystic Ticket",
+          "name": "Johnny Showcase & The Mystic Ticket",
+          "stats": {
+            "event_count": 1
+          },
+          "home_venue_id": null,
+          "id": 254214,
+          "num_upcoming_events": 1,
+          "images": {
+          },
+          "colors": null,
+          "taxonomies": [
+            {
+              "parent_id": null,
+              "id": 2000000,
+              "name": "concert"
+            }
+          ],
+          "type": "band",
+          "image": null,
+          "has_upcoming_events": true,
+          "score": 0.0,
+          "slug": "johnny-showcase-the-mystic-ticket"
+        }
+      ],
+      "time_tbd": false,
+      "general_admission": true
+    }
+  ]
+}
